@@ -1,1 +1,3 @@
-# Écrivez votre code ici !
+fruit = ["pomme","banane","orange"]
+fruit.append(kiwi)
+print(fruit)
